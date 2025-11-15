@@ -25,7 +25,7 @@ Goal: Build a solid foundation in Vue’s declarative model, template syntax, an
 - List rendering (`v-for`) and the importance of key
 - Two-way data binding with v-model
 
-### Lesson 4: Props, Emits, and Component Communication
+### [Lesson 4: Props, Emits, and Component Communication](lesson_4.md)
 
 - Passing data down via props
 - Emitting custom events upward
