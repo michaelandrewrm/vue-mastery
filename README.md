@@ -18,7 +18,7 @@ Goal: Build a solid foundation in Vue’s declarative model, template syntax, an
 - Using reactive data and methods
 - Rendering logic with data bindings ({{ }})
 
-### Lesson 3: Template Syntax and Directives
+### [Lesson 3: Template Syntax and Directives](lesson_3.md)
 
 - Interpolation, attribute binding (`v-bind`), event handling (`v-on`)
 - Conditional rendering (`v-if`, `v-show`)
