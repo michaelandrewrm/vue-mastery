@@ -32,7 +32,7 @@ Goal: Build a solid foundation in Vue’s declarative model, template syntax, an
 - Defining prop types and default values
 - The one-way data flow mental model
 
-### Lesson 5: Lifecycle Hooks and Component Mounting
+### [Lesson 5: Lifecycle Hooks and Component Mounting](lesson_5.md)
 
 - The component lifecycle in Vue 3
 - Common hooks: `onMounted`, `onUpdated`, `onUnmounted`
