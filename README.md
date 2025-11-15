@@ -42,7 +42,7 @@ Goal: Build a solid foundation in Vue’s declarative model, template syntax, an
 
 Goal: Develop deeper understanding of Vue’s reactivity, computed state, and composition patterns.
 
-### Lesson 6: Reactivity Fundamentals
+### [Lesson 6: Reactivity Fundamentals](lesson_6.md)
 
 - `ref()` vs. `reactive()`
 - Dependency tracking and reactivity graph mental model
