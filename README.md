@@ -11,7 +11,7 @@ Goal: Build a solid foundation in Vue’s declarative model, template syntax, an
 - The Vue instance and the concept of reactivity
 - How Vue efficiently updates the DOM
 
-### Lesson 2: Creating Your First Component
+### [Lesson 2: Creating Your First Component](lesson_2.md)
 
 - The role of `<script setup>` and `<template>`
 - Component registration and organization
