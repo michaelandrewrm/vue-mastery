@@ -80,7 +80,7 @@ Goal: Develop deeper understanding of Vue’s reactivity, computed state, and co
 
 Goal: Master composition, abstraction, and patterns for scalable and reusable component systems.
 
-### Lesson 11: Custom Composables
+### [Lesson 11: Custom Composables](lesson_11.md)
 
 - Extracting logic into composable functions
 - Using composables for state and effects
