@@ -94,7 +94,7 @@ Goal: Master composition, abstraction, and patterns for scalable and reusable co
 - Computed getters, actions, and persistence
 - Migrating from Vuex to Pinia mental model
 
-### Lesson 13: Asynchronous Behavior and Suspense
+### [Lesson 13: Asynchronous Behavior and Suspense](lesson_13.md)
 
 - Handling async data loading
 - Vue’s built-in `<Suspense>` component
