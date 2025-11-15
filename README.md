@@ -49,7 +49,7 @@ Goal: Develop deeper understanding of Vue’s reactivity, computed state, and co
 - Proxy-based reactivity explained
 - Common gotchas: destructuring reactive state
 
-### Lesson 7: Computed and Watchers
+### [Lesson 7: Computed and Watchers](lesson_7.md)
 
 - The difference between computed and watch
 - Lazy evaluation in computed properties
