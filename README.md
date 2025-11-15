@@ -56,7 +56,7 @@ Goal: Develop deeper understanding of Vue’s reactivity, computed state, and co
 - Side effects vs. derived state
 - Example: reactive form validation
 
-### Lesson 8: Composition API Basics
+### [Lesson 8: Composition API Basics](lesson_8.md)
 
 - Why the Composition API exists
 - The role of `setup()` and script setup
