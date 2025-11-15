@@ -87,7 +87,7 @@ Goal: Master composition, abstraction, and patterns for scalable and reusable co
 - Dependency injection patterns (provide/inject)
 - Organizing composables for large projects
 
-### Lesson 12: State Management — Pinia and Vuex 4
+### [Lesson 12: State Management — Pinia and Vuex 4](lesson_12.md)
 
 - When to use global state
 - Pinia’s API and store design
