@@ -69,7 +69,7 @@ Goal: Develop deeper understanding of Vue’s reactivity, computed state, and co
 - Named and scoped slots
 - Building flexible, reusable UIs with slots
 
-### Lesson 10: Lifecycle, Effects, and Cleanup
+### [Lesson 10: Lifecycle, Effects, and Cleanup](lesson_10.md)
 
 - Understanding Vue’s reactivity loop
 - Using lifecycle hooks (`onMounted`, `onUnmounted`)
