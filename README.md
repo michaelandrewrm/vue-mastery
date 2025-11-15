@@ -63,7 +63,7 @@ Goal: Develop deeper understanding of Vue’s reactivity, computed state, and co
 - Organizing logic with composables
 - Using reactive primitives together
 
-### Lesson 9: Slots and Component Composition
+### [Lesson 9: Slots and Component Composition](lesson_9.md)
 
 - The concept of slots as render portals
 - Named and scoped slots
