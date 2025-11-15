@@ -107,7 +107,7 @@ Goal: Master composition, abstraction, and patterns for scalable and reusable co
 - Recursive components and tree structures
 - Managing conditional and dynamic UI hierarchies
 
-### Lesson 15: Routing with Vue Router
+### [Lesson 15: Routing with Vue Router](lesson_15.md)
 
 - Setting up routes and nested views
 - Navigation guards and route parameters
