@@ -101,7 +101,7 @@ Goal: Master composition, abstraction, and patterns for scalable and reusable co
 - Async components and fallbacks
 - Integrating composables with async logic
 
-### Lesson 14: Dynamic and Recursive Components
+### [Lesson 14: Dynamic and Recursive Components](lesson_14.md)
 
 - component and dynamic component rendering
 - Recursive components and tree structures
