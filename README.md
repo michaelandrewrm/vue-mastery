@@ -191,6 +191,6 @@ Goal: Reach expert fluency in building, scaling, and reasoning about advanced Vu
 
 - `watchEffect()` vs. `watch()`
 
-### Lesson 27: Advanced Suspense Internals: Multi-Boundaries, Parallel Async, and SSR
+### [Lesson 27: Advanced Suspense Internals: Multi-Boundaries, Parallel Async, and SSR](lesson_27.md)
 
 - Suspense internals
