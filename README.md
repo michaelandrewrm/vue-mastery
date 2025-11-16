@@ -209,3 +209,9 @@ Goal: Reach expert fluency in building, scaling, and reasoning about advanced Vu
 - Controlled/uncontrolled components
 - State machines
 - Patterns for dropdowns, tabs, modals
+
+### [Lesson 30: Advanced Slot Patterns: Dynamic Slots, Slot-State Sharing & Higher-Order Components](lesson_30.md)
+
+- Dynamic slots
+- Slot-based state sharing
+- High-order component equivalents
