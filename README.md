@@ -169,7 +169,7 @@ Goal: Reach expert fluency in building, scaling, and reasoning about advanced Vu
 - Enter/leave transitions and groups
 - Animation performance best practices
 
-### Lesson 23: Large-Scale Architecture & Code Organization
+### [Lesson 23: Large-Scale Architecture & Code Organization](lesson_23.md)
 
 - Colocation and modular design
 - Feature-based file structuring
