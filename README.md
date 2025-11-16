@@ -163,7 +163,7 @@ Goal: Reach expert fluency in building, scaling, and reasoning about advanced Vu
 - Streaming SSR and async data hydration
 - Using Nuxt for SSR architecture
 
-### Lesson 22: Transitions and Animations
+### [Lesson 22: Transitions and Animations](lesson_22.md)
 
 - Transition components and lifecycle hooks
 - Enter/leave transitions and groups
