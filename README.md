@@ -131,7 +131,7 @@ Goal: Understand how Vue works internally — from its reactivity system to temp
 - Deep dive: how Vue’s reactivity uses ES6 Proxies
 - The dependency graph mental model
 
-### Lesson 18: Scheduler and Next Tick
+### [Lesson 18: Scheduler and Next Tick](./lesson_18.md)
 
 - The async update queue
 - `nextTick()` and microtask scheduling
