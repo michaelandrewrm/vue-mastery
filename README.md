@@ -118,7 +118,7 @@ Goal: Master composition, abstraction, and patterns for scalable and reusable co
 
 Goal: Understand how Vue works internally — from its reactivity system to template compilation and virtual DOM.
 
-### Lesson 16: The Virtual DOM and Rendering Process
+### [Lesson 16: The Virtual DOM and Rendering Process](lesson_16.md)
 
 - What the Virtual DOM is and why Vue uses it
 - The render pipeline: render → diff → patch
