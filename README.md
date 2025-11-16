@@ -124,7 +124,7 @@ Goal: Understand how Vue works internally — from its reactivity system to temp
 - The render pipeline: render → diff → patch
 - Optimized diffing and static hoisting
 
-### Lesson 17: Inside Vue’s Reactivity System
+### [Lesson 17: Inside Vue’s Reactivity System](lesson_17.md)
 
 - Dependency collection and effect tracking
 - The effect() and track() / trigger() cycle
