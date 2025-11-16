@@ -181,9 +181,16 @@ Goal: Reach expert fluency in building, scaling, and reasoning about advanced Vu
 - Using defineProps and defineEmits with TS
 - Creating strongly-typed composables
 
-### Lesson 25: Debugging and Reasoning from First Principles
+### [Lesson 25: Advanced Reactivity: Effect Scopes, Shallow Reactivity & Custom Refs](lesson_25.md)
 
-- Vue DevTools deep dive
-- Tracing reactivity updates and watcher triggers
-- Debugging performance and render issues
-- Developing “Vue intuition” — predicting behavior before testing
+- Effect Scopes (`effectScope()`)
+- `shallowRef`, `shallowReactive`, and `triggerRef`
+- Custom reactive primitives using `customRef()`
+
+### Lesson 26: Advanced Reactivity: watchEffect() vs watch()
+
+- `watchEffect()` vs. `watch()`
+
+### Lesson 27: Advanced Suspense Internals: Multi-Boundaries, Parallel Async, and SSR
+
+- Suspense internals
