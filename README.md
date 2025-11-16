@@ -49,7 +49,7 @@ Goal: Develop deeper understanding of Vue’s reactivity, computed state, and co
 - Proxy-based reactivity explained
 - Common gotchas: destructuring reactive state
 
-### [Lesson 7: Computed and Watchers](lesson_7.md)
+### [Lesson 7: Computed and Watchers](lesson_7.md)
 
 - The difference between computed and watch
 - Lazy evaluation in computed properties
@@ -156,7 +156,7 @@ Goal: Understand how Vue works internally — from its reactivity system to temp
 
 Goal: Reach expert fluency in building, scaling, and reasoning about advanced Vue systems.
 
-### Lesson 21: SSR and Hydration (Nuxt Concepts)
+### [Lesson 21: SSR and Hydration (Nuxt Concepts)](lesson_21.md)
 
 - Server-Side Rendering (SSR) fundamentals
 - Hydration and client activation
