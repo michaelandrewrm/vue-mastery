@@ -145,7 +145,7 @@ Goal: Understand how Vue works internally — from its reactivity system to temp
 - Static tree hoisting and patch flags
 - Custom render functions (`h()`)
 
-### Lesson 20: Performance Optimization Techniques
+### [Lesson 20: Performance Optimization Techniques](lesson_20.md)
 
 - Measuring component performance
 - `v-memo`, `v-once`, and caching strategies
