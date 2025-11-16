@@ -203,3 +203,9 @@ Goal: Reach expert fluency in building, scaling, and reasoning about advanced Vu
 - Use cases
 - How they relate to composables
 - Accessibility considerations
+
+### [Lesson 29: Headless UI Patterns (Controlled/Uncontrolled Components & State Machines)](lesson_29.md)
+
+- Controlled/uncontrolled components
+- State machines
+- Patterns for dropdowns, tabs, modals
