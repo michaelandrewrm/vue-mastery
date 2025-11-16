@@ -138,7 +138,7 @@ Goal: Understand how Vue works internally — from its reactivity system to temp
 - How Vue batches updates for performance
 - Visualizing reactivity updates step-by-step
 
-### Lesson 19: Template Compilation
+### [Lesson 19: Template Compilation](lesson_19.md)
 
 - From template to render function
 - Vue’s compiler-inferred optimizations
