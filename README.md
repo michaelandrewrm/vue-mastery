@@ -193,4 +193,13 @@ Goal: Reach expert fluency in building, scaling, and reasoning about advanced Vu
 
 ### [Lesson 27: Advanced Suspense Internals: Multi-Boundaries, Parallel Async, and SSR](lesson_27.md)
 
-- Suspense internals
+- Multi-boundary suspense
+- Parallel async boundaries
+- SSR + Suspense interactions
+
+### [Lesson 28: Advanced Composition Pattern: Renderless Components](lesson_28.md)
+
+- Pattern
+- Use cases
+- How they relate to composables
+- Accessibility considerations
