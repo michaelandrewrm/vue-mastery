@@ -175,7 +175,7 @@ Goal: Reach expert fluency in building, scaling, and reasoning about advanced Vu
 - Feature-based file structuring
 - Managing complexity with composables and stores
 
-### Lesson 24: Vue + TypeScript for Scalability
+### [Lesson 24: Vue + TypeScript for Scalability](lesson_24.md)
 
 - Typing props, emits, and refs
 - Using defineProps and defineEmits with TS
