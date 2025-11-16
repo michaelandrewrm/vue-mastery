@@ -187,7 +187,7 @@ Goal: Reach expert fluency in building, scaling, and reasoning about advanced Vu
 - `shallowRef`, `shallowReactive`, and `triggerRef`
 - Custom reactive primitives using `customRef()`
 
-### Lesson 26: Advanced Reactivity: watchEffect() vs watch()
+### [Lesson 26: Advanced Reactivity: watchEffect() vs watch()](lesson_26.md)
 
 - `watchEffect()` vs. `watch()`
 
